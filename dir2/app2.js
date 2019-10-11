@@ -1,0 +1,1 @@
+console.add(123);
